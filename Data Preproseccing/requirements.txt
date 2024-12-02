@@ -1,0 +1,8 @@
+tensorflow
+pandas
+matplotlib
+ipykernel
+seaborn
+scikit-learn
+imblearn
+apscheduler
